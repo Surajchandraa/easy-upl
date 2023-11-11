@@ -1,0 +1,22 @@
+{
+  "name": "easy-upl",
+  "version": "1.0.0",
+  "description": "make file upload easy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "file",
+    "upload",
+    "easy upload",
+    "utility",
+    "file system"
+  ],
+  "author": "suraj chandra",
+  "license": "MIT",
+  "dependencies": {
+    "multer": "^1.4.5-lts.1",
+    "uuid": "^9.0.1"
+  }
+}
